@@ -25,6 +25,16 @@
   * Enlarge Window: `⇧ + ^ + ⌥ + →`
 
 ## Chrome:
+* Open New Window: `⌘ + N`
+* Open New Incognito: `⇧ + ⌘ + N`
+* Open New Tab: `⌘ + D`
+* Cycle Tabs:
+  * Right: `^ + tab`
+  * Left: `⇧ + ^ + tab`
+* Close Tab: `⌘ + W`
+* Reload Page: `⇧ + ⌘ + R`
+* Highlight Current URL: `⌘ + L`
+* Bookmark Page: `⌘ + D`
 
 ## Terminal:
 
