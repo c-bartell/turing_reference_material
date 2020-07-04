@@ -37,6 +37,20 @@
 * Bookmark Page: `⌘ + D`
 
 ## Terminal:
+* Cycle Through Past Commands: `↑`
+* See Last 16 Previously Typed Commands: `type 'history' in the command line`
+* Clear Command Line: `^ + U`
+* Clear Terminal Window: `⌘ + K`
+* Open New Tab: `⌘ + T`
+* Cycle Open Tabs: `^ + tab`
+* Goto Beginning of Line: `^ + A`
+* Goto End of Line: `^ + E`
+* Fast Moving Cursor Through Command Line Text:
+  * Right: `⌥ + →`
+  * Left:  `⌥ + ←`
+* Stop Any Terminal Process: `^ + C`
+
+## Atom:
 
 ## Slack:
 
