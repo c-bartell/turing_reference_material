@@ -56,7 +56,7 @@
 * Highlight Current Line(s): `⌘ + L`
 * Highlight Current Word: `⌘ + D`
 * Find in Page: `⌘ + F`
-* Find and Replace in Project (USE WITH CAUTION!!!): '⇧ + ⌘ + F'
+* Find and Replace in Project (USE WITH CAUTION!!!): `⇧ + ⌘ + F`
 * Split Panes: `⌘ + K ..unpress keys.. + arrow (choose direction)`
 
 ## Slack:
