@@ -51,6 +51,13 @@
 * Stop Any Terminal Process: `^ + C`
 
 ## Atom:
+* File Finder: `⌘ + T` or `⌘ + P`
+* Toggle File Tree: `⌘ + \`
+* Highlight Current Line(s): `⌘ + L`
+* Highlight Current Word: `⌘ + D`
+* Find in Page: `⌘ + F`
+* Find and Replace in Project (USE WITH CAUTION!!!): '⇧ + ⌘ + F'
+* Split Panes: `⌘ + K ..unpress keys.. + arrow (choose direction)`
 
 ## Slack:
 
