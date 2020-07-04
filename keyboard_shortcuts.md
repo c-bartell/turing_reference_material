@@ -58,6 +58,7 @@
 * Find in Page: `⌘ + F`
 * Find and Replace in Project (USE WITH CAUTION!!!): `⇧ + ⌘ + F`
 * Split Panes: `⌘ + K ..unpress keys.. + arrow (choose direction)`
+* Preview Formatting in .md File: `^ + ⇧ + M`
 
 ## Slack:
 
