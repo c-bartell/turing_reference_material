@@ -27,7 +27,7 @@
 ## Chrome:
 * Open New Window: `⌘ + N`
 * Open New Incognito: `⇧ + ⌘ + N`
-* Open New Tab: `⌘ + D`
+* Open New Tab: `⌘ + T`
 * Cycle Tabs:
   * Right: `^ + tab`
   * Left: `⇧ + ^ + tab`
