@@ -63,8 +63,14 @@
 * Highlight Current Word: `⌘ + D`
 * Find in Page: `⌘ + F`
 * Find and Replace in Project (USE WITH CAUTION!!!): `⇧ + ⌘ + F`
-* Split Panes: `⌘ + K ..unpress keys.. + arrow (choose direction)`
+* Split Panes: `⌘ + K ..unpress keys..  arrow (choose direction)`
+* Switch pane `⌘ + K ..unpress keys.. ⌘ + arrow`
 * Preview Formatting in .md File: `^ + ⇧ + M`
+* Open project file in new pane:
+  1. `⌘ + P`
+  1. `arrow` over correct file
+  1. `⌘ + K`
+  1. Not sure if `arrow` or `⌘ + arrow`
 
 ## Slack:
 
