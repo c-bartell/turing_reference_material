@@ -35,6 +35,12 @@
 * Reload Page: `⇧ + ⌘ + R`
 * Highlight Current URL: `⌘ + L`
 * Bookmark Page: `⌘ + D`
+* Scroll down one page at a time: `space`
+  * Scroll up one page: `⇧ + space`
+* Next clickable item: `tab`
+* Open bookmark manager: `⌘ + ⌥ + B`
+* Add `www.` and `.com` to site name and open in current tab: `site name + ^ + enter`
+  * Open in new tab: `site name + ⇧ + ^ + enter`
 
 ## Terminal:
 * Cycle Through Past Commands: `↑`
