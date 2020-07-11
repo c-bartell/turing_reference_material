@@ -70,8 +70,9 @@
   1. `⌘ + P`
   1. `arrow` over correct file
   1. `⌘ + K`
-  1. Not sure if `arrow` or `⌘ + arrow`
-
+  1. `⌘ + arrow`
+* Quick cursor: `⌥ + arrow`
+* Toggle comment on selected line/lines: `⌘ + /`
 ## Slack:
 
 ## Zoom:
