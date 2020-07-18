@@ -73,6 +73,8 @@
   1. `⌘ + arrow`
 * Quick cursor: `⌥ + arrow`
 * Toggle comment on selected line/lines: `⌘ + /`
+* Focus on project pane: `^ + 0`
+
 ## Slack:
 
 ## Zoom:
